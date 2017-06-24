@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mod",
+  "name": "Mod",
+  "description": "Mod, by the Technomancer Darkstrumn",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Darkstrumn"],
+  "credits": "The Forge and FML guys, for making this possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
